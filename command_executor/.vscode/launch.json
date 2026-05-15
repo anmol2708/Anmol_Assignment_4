@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run execute_commands.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/execute_commands.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
